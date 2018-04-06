@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CURDdemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CURDdemo-0.0.1.war">
+      <element id="artifact" artifact-name="CURDdemo:war exploded" />
+    </root>
+  </artifact>
+</component>
